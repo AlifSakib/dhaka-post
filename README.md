@@ -1,6 +1,6 @@
 # The Downtown - News Portal
 
-A modern news website built with Next.js 15, React 18, and Tailwind CSS 3.x, based on the CityNews template design.
+A news website built with Next.js 15, React 18, and Tailwind CSS 3.x, based on the CityNews template design.
 
 ## 🚀 Technologies Used
 
@@ -77,14 +77,6 @@ npm start
 - Clean typography
 - Hover states
 
-## 🎨 Design Features
-
-- Clean, modern news layout
-- Consistent spacing and typography
-- Hover effects and transitions
-- Optimized images with Next.js Image component
-- Mobile-first responsive design
-- Semantic HTML structure
 
 ## 📁 Project Structure
 
@@ -118,14 +110,6 @@ Configured with custom theme extensions in `tailwind.config.ts`
 - App Router enabled
 - Image optimization configured for external images
 - TypeScript strict mode enabled
-
-## 📝 Notes
-
-- All images use Next.js Image component for automatic optimization
-- Components are fully reusable and type-safe
-- Follows Next.js 15 best practices with App Router
-- Semantic HTML for better accessibility
-- CSS utilities organized with Tailwind's utility-first approach
 
 ## 🌐 Reference
 
